@@ -8,4 +8,4 @@ server_script 'Server/bin/Release/**/publish/*.net.dll'
 
 author 'You'
 version '1.0.0'
-description 'Example Resource from C# Template'
+description 'Trucking Job - Load transport and delivery'
