@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94e663e5-4317-4d71-8320-addc5a64fbc7" name="Changes" comment="" />
+    <list default="true" id="94e663e5-4317-4d71-8320-addc5a64fbc7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/blips/__resource.lua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blips/blips.lua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.resources.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.resources.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trucking/fxmanifest.lua" beforeDir="false" afterPath="$PROJECT_DIR$/Trucking/fxmanifest.lua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[gamemodes]/[maps]/fivem-map-hipster/map.lua" beforeDir="false" afterPath="$PROJECT_DIR$/[gamemodes]/[maps]/fivem-map-hipster/map.lua" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="27cfSNSqExQrgU525Hgy7AoZrqY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -29,15 +38,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1649624294067</updated>
-      <workItem from="1649624297723" duration="1534000" />
+      <workItem from="1649624297723" duration="2385000" />
+      <workItem from="1649803877897" duration="1499000" />
     </task>
+    <task id="LOCAL-00001" summary="default resources">
+      <created>1649625888724</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649625888724</updated>
+    </task>
+    <task id="LOCAL-00002" summary="cleanup">
+      <created>1649626079997</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649626079997</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -52,5 +77,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="default resources" />
+    <MESSAGE value="cleanup" />
+    <option name="LAST_COMMIT_MESSAGE" value="cleanup" />
   </component>
 </project>
