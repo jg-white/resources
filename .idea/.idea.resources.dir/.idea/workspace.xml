@@ -4,7 +4,6 @@
     <list default="true" id="94e663e5-4317-4d71-8320-addc5a64fbc7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.resources.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.resources.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Trucking/Client/ClientMain.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Trucking/Client/ClientMain.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blips/blips.lua" beforeDir="false" afterPath="$PROJECT_DIR$/blips/blips.lua" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +15,7 @@
     <setting file="file://$PROJECT_DIR$/Trucking/Server/obj/Release/netstandard2.0/.NETStandard,Version=v2.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Trucking/Client/obj/Release/net452/.NETFramework,Version=v4.5.2.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Trucking/Client/obj/Release/net452/Trucking.Client.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://E:/txData/CFXDefault_514AE1.base/resources/Trucking/Client/ClientMain.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -44,6 +44,8 @@
       <updated>1649624294067</updated>
       <workItem from="1649624297723" duration="2385000" />
       <workItem from="1649803877897" duration="5013000" />
+      <workItem from="1649809161166" duration="30000" />
+      <workItem from="1649878049966" duration="4638000" />
     </task>
     <task id="LOCAL-00001" summary="default resources">
       <created>1649625888724</created>
@@ -73,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649805514976</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added Trucking blip">
+      <created>1649809182909</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1649809182909</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +108,7 @@
     <MESSAGE value="cleanup" />
     <MESSAGE value="Coords, truck map icon + spawnpoint" />
     <MESSAGE value="Trucking Resource desc" />
-    <option name="LAST_COMMIT_MESSAGE" value="Trucking Resource desc" />
+    <MESSAGE value="Added Trucking blip" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Trucking blip" />
   </component>
 </project>
