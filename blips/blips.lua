@@ -1,6 +1,4 @@
 local blips = {
-    -- Example {title="", colour=, id=, x=, y=, z=},
-
      {title="Trucking", colour=9, id=477, x = 123.19, y = 6406.92, z = 31.36}
   }
       

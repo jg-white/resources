@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using CitizenFX.Core;
+using System.Threading;
 using static CitizenFX.Core.Native.API;
 
 namespace Trucking.Client
@@ -10,8 +11,18 @@ namespace Trucking.Client
         public ClientMain()
         {
             EventHandlers["onClientResourceStart"] += new Action<string>(OnClientResourceStart);
+            //drawJobMarker();
         }
 
+        /*private void drawJobMarker()
+        {
+            while (true)
+            {
+                DrawMarker(39, 123, 64061, 33, 0, 0, 0, 0, 0, 0, 0, 2, 2, 93, 182, 229, 255,
+                    false, true, 2, true, null, null, false);
+            }
+        }*/
+        
         private void OnClientResourceStart(string resourceName)
         {
             if (GetCurrentResourceName() != resourceName) return;
